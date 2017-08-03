@@ -1,8 +1,8 @@
-tutorial following https://www.youtube.com/watch?v=WUQ9MF5WsVI&t=24s
+# tutorial following https://www.youtube.com/watch?v=WUQ9MF5WsVI&t=24s
 
-to run, update...
+## to run, update...
 
-routes/index.js with your bucket name
-config.json with your bucket key information
+1. routes/index.js with your bucket name
+2. config.json with your bucket key information
 
-hope this helps someone
+#### hope this helps someone
